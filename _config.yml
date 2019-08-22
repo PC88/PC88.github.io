@@ -11,14 +11,14 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: _site name_
-description: _description_
+title: Peter Cannon
+description: A site to display my portfolio of work, and thoughts on various topics
 owner:
-  name: _your name_ # or company name
-  url: "http://example.com" # your URL
-first_published: 2010 # if migrating another site, the year of your first publish
+  name: Peter Cannon # or company name
+  url: "http://PeterCannon.com" # your URL
+first_published: 2019 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
-url: "http://example.com" # the base hostname & protocol for this site
+url: "http://PeterCannon.com" # the base hostname & protocol for this site
 baseurl: "" # the subpath of your site, e.g. /blog
             # Note you'll have to move your robots.txt to the root if you want it used.
             # And list multiple sitemaps if there are other subdirectories you want indexed
@@ -28,19 +28,19 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: _Your greeting_  
-  text: _Your detailed greeting text_
+  title: Endeavours Below &#58;  
+  text: links to the relevant social media
 # - displayed at the bottom
-closing-head: _Your closing_
-closing-para: _Your detailed closing_
+closing-head: For any inquiries feel free to contact me
+closing-para: A thanks to Gary Faircloth for the great work he as done on this template, and the generosity of freely distributing it.
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/_username_
-  github: https://github.com/_username_
-  linkedin-square: https://linkedin.com/in/_username_
-  facebook-official: https://facebook.com/_username_
-  google-plus-square: https://plus.google.com/u/0/+_username_
+  #twitter: https://twitter.com/_username_
+  github: https://github.com/PC88
+  linkedin-square: https://linkedin.com/in/peter-cannon-84a45a172/
+  #facebook-official: https://facebook.com/_username_
+  #google-plus-square: https://plus.google.com/u/0/+_username_
   email: /contact/ # you can configure and use this contact page or use your email addy
   #flickr:
   #instagram:
@@ -75,6 +75,7 @@ social:
   #forumbee:
   #tripadvisor:
   #amazon:
+  behance: https://www.behance.net/peteralist78e0
 
 # - title for your blog's featured posts
 features-title: Featured topics
