@@ -28,7 +28,7 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Endeavours Below &#58;  
+  title: Welcome! Endeavours Below &#58;  
   text: links to the relevant social media
 # - displayed at the bottom
 closing-head: For any inquiries feel free to contact me
@@ -42,7 +42,7 @@ social:
   #facebook-official: https://facebook.com/_username_
   #google-plus-square: https://plus.google.com/u/0/+_username_
   behance: https://www.behance.net/peteralist78e0
-  email: peteralistaircannon@Gmail.com #/contact/ # you can configure and use this contact page or use your email addy
+  email: peteralistaircannon@Gmail.com /contact/ # you can configure and use this contact page or use your email addy
   #flickr:
   #instagram:
   #youtube-square:
