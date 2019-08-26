@@ -11,10 +11,10 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: PeterCannon
+title: Peter Cannon
 description: A site to display my portfolio of work, and thoughts on various topics
 owner:
-  name: PeterCannon # or company name
+  name: Peter Cannon # or company name
   url: "https://Peter.A.R.Cannon.com" # your URL
 first_published: 2019 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
