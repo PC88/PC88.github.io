@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_data"
+    "\\.jekyll-cache\\Jekyll\\Cache",
+    "\\js",
+    "\\js\\ie",
+    "\\_site",
+    "\\_site\\contact"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\_site\\robots.txt",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,44 @@
+I"�
+<hr />
+
+<h2 id="introduction-post-0">Introduction: Post 0</h2>
+
+<p>This post will detail an initial foray in to the world of Data Science and machine learning,
+this will be done through analysis through the topic of AMGs(Auxiliary Metabolic Genes and the data surrounding them)</p>
+
+<p>This project is a collaborative project done with my friend and fellow undergraduate student Daniel Macfarlane: who 
+will be handling the marine science aspects of the project. This will entail an initial review of the relevant
+literature in the form of the papers shown further on in this post. From this we hope to extract areas in which the 
+research is lacking or needs further exploration and subsequently look for patterns or trends which can explored via
+machine learning or other forms of data science,this will be my end of project. We hope this will reveal – with any
+luck – some form of salient information on the topic.</p>
+
+<p>It is important to note that this topic is being done first and foremost as a critical exercise to simply better each
+of our self’s in our respective disciplines. We hope to deepen our understanding of the chosen topics and improve our
+skills for future projects and various endeavours.</p>
+
+<p>All details of this project from my end will be kept up-to-date on this blog category under this heading. The following
+posts will be numbered to denote the order and are dated by default. For now,here is the starting point and some of my
+motivations.</p>
+
+<hr />
+
+<h2 id="motivations">Motivations</h2>
+
+<p>Being a student of CGT (Computer Game Technology) a specific, and yet still broad discipline it may be hard to initially 
+discern why I would foray in to the topic of data science, another broad topic. This motivation for me comes from a desire
+to learn machine learning, a topic becoming increasingly prevalent in technical art in game development, as well as python 
+in general. This project allows me to begin this pursuit in a uniquely productive way in which I get experience working in 
+partnership with a student from a totally different discipline. Which I feel is a very excellent exercise as data science 
+is a broad and far reaching domain touching from technical art and AI, to bio-informatics and psychological research which 
+allows me to see how the application of data science is useful in the domain of marine science – AMGs in this case – and
+then reflect that information back on to my own alternative goals and future projects, such as the aforementioned technical art.</p>
+
+<p>I will also be seeking to accredit this project under the grounds of UWS (University of the West of Scotland`s)
+ collaboration award so it does have the opportunity to reflect on my academic record.</p>
+
+<p>## A starting point</p>
+
+<hr />
+
+:ET
