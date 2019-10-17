@@ -6,7 +6,7 @@ permalink: /topics/Data Science Collaboration Project/
 categories:
   - topics
   - Data Science Collaboration Project
-background-image: DSImage.jpg
+background-image: PDSImage.jpg
 #date/lastmod are optional
 #date: 2019-10-16 19:47:13 +0100
 #lastmod: 2019-10-16 19:47:13 +0100
