@@ -63,3 +63,7 @@ Temporary Items
 
 # VSCode
 .vscode/
+/.vs/ActualWebsite/v16/.suo
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
