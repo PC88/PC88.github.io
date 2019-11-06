@@ -1,6 +1,6 @@
 ---
 title: Week 3 Blog, CGT Group Project
-excerpt: 
+excerpt: Week 3
 author: Peter Cannon
 categories:
   - topics
