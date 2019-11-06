@@ -1,6 +1,6 @@
 ---
 title: Week 1 Blog, CGT Group Project
-excerpt: Week 1:
+excerpt: Week 1
 author: Peter Cannon
 permalink: /topics/Acedemic Project Blog/
 categories:
