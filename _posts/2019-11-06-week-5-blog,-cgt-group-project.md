@@ -1,6 +1,6 @@
 ---
 title: Week 5 Blog, CGT Group Project
-excerpt: 
+excerpt: Week 5
 author: Peter Cannon
 categories:
   - topics
