@@ -1,6 +1,6 @@
 ---
-title: Week 14 Blog, CGT Group Project
-excerpt: Week 14, final week T1
+title: Week 13 Blog, CGT Group Project
+excerpt: Week 13, final week T1
 author: Peter Cannon
 categories:
   - topics
@@ -13,7 +13,7 @@ background-image: flickr-froderik.jpg
 
 <hr />
 
-**Week 14 Blog Technology group project, Peter Cannon, CGT Group 2**
+**Week 13 Blog Technology group project, Peter Cannon, CGT Group 2**
 
 Now we have arrived at the final week, I have successfully rounded out all the documentation to my knowledge having completed the GDD and TDD, with all respective diagrams, the TDD finishing up at close to 7000 words and 20 pages, and the GDD ending up around 5400 words and 21 pages. Both are completed in full and on the wiki, which takes care of the majority share of the marks for the hand in. with blogs, evaluation, proposed plan, and actual plan, taking up the remaining 35% and the remaining 15% being our presentation on Wednesday.
 
