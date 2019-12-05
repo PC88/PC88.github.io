@@ -1,6 +1,6 @@
 ---
-title: Week 12 Blog, CGT Group Project
-excerpt: Week12
+title: Week 11 Blog, CGT Group Project
+excerpt: Week 11
 author: Peter Cannon
 categories:
   - topics
@@ -13,7 +13,7 @@ background-image: flickr-froderik.jpg
 
 <hr />
 
-**Week 12 Blog Technology group project, Peter Cannon, CGT Group 2**
+**Week 11 Blog Technology group project, Peter Cannon, CGT Group 2**
 
 As we approach the end of the year naturally the work load is steadily piling on, and time is most definitely hard to keep track of. I spent much of this week studying for the class test of Algorithms and collections which took up at least a day or so of my time, this combined with the AGP hand in looming also constrained my efforts. What I did this week was revise the Gantt chart accurately reflect what had happened this year, as per the spec, as well as mirror a viable software development methodology for the next trimester. I landed on RAD rapid application development, as the cycle suits our agile approach and sprint integration with the demo system.
 
