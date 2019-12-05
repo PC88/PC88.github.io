@@ -1,6 +1,6 @@
 ---
-title: Week 13 Blog, CGT Group Project
-excerpt: Week 13
+title: Week 12 Blog, CGT Group Project
+excerpt: Week 12
 author: Peter Cannon
 categories:
   - topics
@@ -12,7 +12,7 @@ background-image: flickr-froderik.jpg
 ---
 
 <hr />
-**Week 13 Blog Technology group project, Peter Cannon, CGT Group 2**
+**Week 12 Blog Technology group project, Peter Cannon, CGT Group 2**
 
 This week the final hand in for AGP was due and took, sadly more time than it should have to complete with some disappointing results. In the remainder of the time of the week I have been going over marking scheme making sure we cover all the bases. Our code base will most definitely be behind where I would like it to be, due to some of the unfortunate set backs in week 8 and 9 having a domino effect on some of the latter work, despite my attempts to make time back up with a more ridged Git Project structure -- which I believe helped, but not entirely mitigate. This also did involve me not making the meeting that week having been up to 6am the previous day trying to meet prior commitments.
 
